@@ -143,7 +143,6 @@ figure {
 
 figure img {
 	display: block;
-	width: 100%;
 	max-width: min-content;
 	margin: 0 auto;
 }
